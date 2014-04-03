@@ -1,0 +1,53 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "30a9ba9e-3cec-430d-9761-a3ba6783c82e",
+    "appKeys": {
+        "season_req_key": 11,
+        "locality": 5,
+        "series": 0,
+        "raceName": 4,
+        "time": 7,
+        "max_round": 12,
+        "offset": 8,
+        "request_key": 10,
+        "customLocation": 9,
+        "season": 1,
+        "date": 6,
+        "round_number": 3,
+        "round": 2
+    },
+    "longName": "F1 2014",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "F1 2014",
+    "companyName": "skybolt",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_TAHOMA_BOLD_28",
+                "file": "fonts/Tahoma Bold.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ARIAL_17",
+                "file": "fonts/Arial.ttf"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_CHEQUERED_FLAG",
+                "file": "images/chequered-flag-bar.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ARIAL_BOLD_22",
+                "file": "fonts/Arial Bold.ttf"
+            }
+        ]
+    }
+}
