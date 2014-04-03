@@ -1,6 +1,6 @@
 #include <pebble.h>
 #include "bluetooth.h"
-
+//aaooogah
 Window *window;	
 TextLayer *title_layer;
 TextLayer *line_layer;

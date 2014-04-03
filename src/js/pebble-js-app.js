@@ -1,3 +1,5 @@
+//JS work for Pebble F1 with season and date stuff. Where are VAR? 
+
 function getNextRace() {
     var e, a = new XMLHttpRequest();
     a.open("GET", "http://ergast.com/api/f1/" + currSeason + "/" + raceChoice + ".json", !0), 
